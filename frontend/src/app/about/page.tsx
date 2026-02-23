@@ -74,7 +74,7 @@ export default function AboutPage() {
                             </div>
                         ))}
                     </div>
-                    <a href="https://youtube.com" target="_blank" rel="noopener noreferrer"
+                    <a href="https://www.youtube.com/@gyansammaan" target="_blank" rel="noopener noreferrer"
                         className="inline-block px-6 py-3 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl transition-colors">
                         Subscribe Now
                     </a>
